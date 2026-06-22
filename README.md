@@ -1,8 +1,8 @@
-# Daily Five
+# Daily Habits
 
 A minimal personal habit tracker designed to live on your iPhone home screen. No account, no server, no app store — just a single HTML file hosted on GitHub Pages.
 
-![Daily Five](https://img.shields.io/badge/platform-iOS%20Safari-lightgrey) ![License](https://img.shields.io/badge/license-MIT-green)
+![Daily Habits](https://img.shields.io/badge/platform-iOS%20Safari-lightgrey) ![License](https://img.shields.io/badge/license-MIT-green)
 
 ## What it tracks
 
@@ -17,7 +17,7 @@ The calendar shows a 2×2 dot grid on each day. Filled dots mean done; the exerc
 
 ## Live demo
 
-👉 [your-username.github.io/daily-five](https://your-username.github.io/daily-five)
+👉 [syangkist.github.io/daily-habits](https://syangkist.github.io/daily-five)
 
 ## Install on iPhone
 
